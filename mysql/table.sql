@@ -1,3 +1,3 @@
 CREATE TABLE people (
-  nome VARCHAR(50)
+  name VARCHAR(50)
 );
